@@ -1,0 +1,9 @@
+scipy
+numpy
+pandas
+sklearn
+seaborn
+nltk
+gensim
+keras
+kaggle-cli
